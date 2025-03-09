@@ -1,11 +1,13 @@
 package edu.paulo.segundasemana.challenge;
 
 public class SmartTv {
-
     boolean statusTv = false;
     int canalTv = 1;
     int volumeTv = 0;
 
+    /**
+    * Classe responsável por ligar ou desligar Tv
+    * */
     public void status(boolean status) {
 
         String mensagem = status ? "Ligada" : "Desligada";

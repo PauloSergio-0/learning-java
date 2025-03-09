@@ -1,6 +1,6 @@
 package edu.paulo.primeirasemana;
 
-class boletinEstudantil{
+class BoletinEstudantil {
     public static void main (String [] args){
         int mediaAluno = 5;
 
