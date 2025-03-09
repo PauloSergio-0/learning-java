@@ -48,7 +48,7 @@ public class SmartTv {
     }
 
 
-    public void VolumeTv(int vol) {
+    public void volumeTv(int vol) {
 
         if(!statusTv) {
             System.out.println("A TV esta desligada");

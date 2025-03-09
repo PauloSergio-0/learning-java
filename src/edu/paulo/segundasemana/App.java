@@ -7,5 +7,10 @@ public class App {
         tv.canalTv(0);
         tv.canalTv(21);
         tv.canalTv(-1);
+
+        tv.status(true);
+        tv.volumeTv(21);
+        tv.volumeTv(0);
+        tv.volumeTv(-1);
     }
 }
