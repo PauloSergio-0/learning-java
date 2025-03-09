@@ -1,7 +1,7 @@
 package edu.paulo.segundasemana;
 import java.util.Scanner;
 
-public class tiposVariaveis {
+public class TiposVariaveis {
 
     public static void main (String [] args){
 
