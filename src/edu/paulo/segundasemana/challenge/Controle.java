@@ -1,6 +1,6 @@
-package edu.paulo.segundasemana;
+package edu.paulo.segundasemana.challenge;
 
-public class App {
+public class Controle {
     public static void main(String[] args) {
         SmartTv tv = new SmartTv();
         tv.status(true);

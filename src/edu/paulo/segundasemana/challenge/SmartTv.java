@@ -1,4 +1,4 @@
-package edu.paulo.segundasemana;
+package edu.paulo.segundasemana.challenge;
 
 public class SmartTv {
 
